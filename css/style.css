@@ -468,14 +468,16 @@ label {
 .banner-info h3 {
     font-size: 3em;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     margin: 0;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 .banner-info p {
-    color: #131313;
+    color: #ffffff;
     font-size: 2em;
     margin: 1em 0;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 .banner-info span {
