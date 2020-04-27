@@ -174,7 +174,7 @@ label {
     overflow: hidden;
     padding: 0 10px;
     max-height: 0;
-    color: #31c59d;
+    color: #1C86EE;
     content: attr(data-hover);
     -webkit-transition: max-height 0.5s;
     -moz-transition: max-height 0.5s;
@@ -221,7 +221,7 @@ label {
         z-index: 999;
         position: absolute;
         width: 92%;
-        background: #31c59d;
+        background: #1C86EE;
         text-align: center;
     }
 
@@ -520,7 +520,7 @@ label {
 
 .arrows-two {
     position: relative;
-    color: #31c59d;
+    color: #1C86EE;
     font-size: 2em;
 }
 
@@ -713,7 +713,7 @@ figure.effect-jazz h4 {
     padding-top: 50%;
     -webkit-transition: -webkit-transform 0.35s;
     transition: transform 0.35s;
-    color: #31c59d;
+    color: #1C86EE;
     font-weight: 400;
     font-size: 1.8em;
 }
@@ -760,7 +760,7 @@ figure.effect-jazz:hover p {
 
 .start a {
     padding: 15px 35px;
-    background: #31c59d;
+    background: #1C86EE;
     font-size: 1em;
     color: #fff;
     text-decoration: none;
@@ -871,7 +871,7 @@ figure.effect-jazz:hover p {
 .diff-grid h4 {
     font-size: 25px;
     margin: 20px 0 19px;
-    color: #31c59d;
+    color: #1C86EE;
 }
 
 .diff-grid p {
@@ -1019,7 +1019,7 @@ figure.effect-jazz:hover p {
 }
 
 .s-1 h3, .s-2 h3, .s-3 h3, .s-1 h3, .s-2 h3, .s-4 h3 {
-    color: #31c59d;
+    color: #1C86EE;
     font-size: 1.4em;
     text-transform: uppercase;
     line-height: 1.5em;
@@ -1097,7 +1097,7 @@ figure.effect-jazz:hover p {
 
 .view-fifth h4 {
     font-size: 20px;
-    border-bottom: 1px solid #31c59d;
+    border-bottom: 1px solid #1C86EE;
     color: #fff;
     line-height: 1.5em;
     font-weight: 600;
@@ -1128,7 +1128,7 @@ figure.effect-jazz:hover p {
 
 .arrows-serve {
     position: relative;
-    color: #31c59d;
+    color: #1C86EE;
     font-size: 2em;
 }
 
@@ -1154,7 +1154,7 @@ figure.effect-jazz:hover p {
 
 .arrows-serve.test {
     position: relative;
-    color: #31c59d;
+    color: #1C86EE;
     font-size: 2em;
 }
 
@@ -1207,7 +1207,7 @@ h4.tittle {
 
 .test-monials h5 {
     font-size: 2em;
-    color: #31c59d;
+    color: #1C86EE;
     text-transform: none;
     margin-top: 0.7em;
 
@@ -1484,7 +1484,7 @@ h4.tittle {
 .info-gal-con h4 {
     font-size: 28px;
     margin-bottom: 30px;
-    color: #31c59d;
+    color: #1C86EE;
 }
 
 .info-gal-con p {
@@ -1510,7 +1510,7 @@ h4.tittle {
 }
 
 .bottom-top h3 {
-    color: #31c59d;
+    color: #1C86EE;
     font-size: 3em;
 }
 
@@ -1581,7 +1581,7 @@ h2.sec-head {
     padding: 9px 0 11px;
     font-size: 1em;
     color: #fff;
-    background: #31c59d;
+    background: #1C86EE;
     border: none;
     width: 20%;
 }
