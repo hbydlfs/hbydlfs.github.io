@@ -45,7 +45,7 @@ label {
 
 /*-- header --*/
 .banner {
-    background: url(../images/banner2.jpg) no-repeat 0 0;
+    background: url(../images/banner.jpg) no-repeat 0 0;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
