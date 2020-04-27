@@ -45,7 +45,7 @@ label {
 
 /*-- header --*/
 .banner {
-    background: url(../images/banner.jpg) no-repeat 0 0;
+    background: url(../images/banner2.jpg) no-repeat 0 0;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1482,7 +1482,7 @@ h4.tittle {
 }
 
 .info-gal-con h4 {
-    font-size: 45px;
+    font-size: 28px;
     margin-bottom: 30px;
     color: #31c59d;
 }
@@ -1803,7 +1803,7 @@ h2.sec-head {
     }
 
     .info-gal-con h4 {
-        font-size: 45px;
+        font-size: 32px;
         margin-bottom: 14px;
     }
 
@@ -2188,7 +2188,7 @@ h2.sec-head {
     }
 
     .info-gal-con h4 {
-        font-size: 37px;
+        font-size: 26px;
     }
 
     #review {
@@ -2323,7 +2323,7 @@ h2.sec-head {
     }
 
     .info-gal-con h4 {
-        font-size: 30px;
+        font-size: 24px;
         margin-bottom: 14px;
     }
 
@@ -2464,7 +2464,7 @@ h2.sec-head {
     }
 
     .info-gal-con h4 {
-        font-size: 28px;
+        font-size: 24px;
         margin-bottom: 14px;
     }
 
