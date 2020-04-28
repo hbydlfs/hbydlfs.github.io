@@ -134,7 +134,7 @@ label {
 }
 
 .top-menu li a {
-    color: #FFFFFF;
+    color: #131313;
     text-decoration: none;
     display: block;
     padding: 0;
@@ -221,7 +221,7 @@ label {
         z-index: 999;
         position: absolute;
         width: 92%;
-        background: #1C86EE;
+        background: #ffffff;
         text-align: center;
     }
 
