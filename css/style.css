@@ -134,7 +134,8 @@ label {
 }
 
 .top-menu li a {
-    color: #131313;
+    color: #ffffff;
+    text-shadow: #131313 1px 1px 1px;
     text-decoration: none;
     display: block;
     padding: 0;
